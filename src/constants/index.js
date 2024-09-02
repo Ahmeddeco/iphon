@@ -7,9 +7,9 @@ import {
   highlightThirdVideo,
   whiteImg,
   yellowImg,
-} from "../utils";
+} from "../utils"
 
-export const navLists = ["Store", "Mac", "iPhone", "Support"];
+export const navLists = ["Store", "Mac", "iPhone", "Support"]
 
 export const hightlightsSlides = [
   {
@@ -44,7 +44,7 @@ export const hightlightsSlides = [
     video: highlightFourthVideo,
     videoDuration: 3.63,
   },
-];
+]
 
 export const models = [
   {
@@ -71,12 +71,12 @@ export const models = [
     color: ["#454749", "#3b3b3b", "#181819"],
     img: blackImg,
   },
-];
+]
 
 export const sizes = [
   { label: '6.1"', value: "small" },
   { label: '6.7"', value: "large" },
-];
+]
 
 export const footerLinks = [
   "Privacy Policy",
@@ -84,4 +84,4 @@ export const footerLinks = [
   "Sales Policy",
   "Legal",
   "Site Map",
-];
+]
